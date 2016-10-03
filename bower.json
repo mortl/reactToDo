@@ -1,0 +1,17 @@
+{
+  "name": "todoapp",
+  "description": "Todo App in React",
+  "main": "index.js",
+  "authors": [
+    "Martin"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
